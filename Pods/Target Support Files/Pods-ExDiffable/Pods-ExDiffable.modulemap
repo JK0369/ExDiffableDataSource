@@ -1,0 +1,6 @@
+framework module Pods_ExDiffable {
+  umbrella header "Pods-ExDiffable-umbrella.h"
+
+  export *
+  module * { export * }
+}
